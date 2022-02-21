@@ -9,3 +9,4 @@
 *.eps
 TestOutput/**
 
+/venv-pyultralight/

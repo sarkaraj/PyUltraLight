@@ -1,0 +1,8 @@
+python_version >= '3.5'
+numpy >= '1.22.2'
+numexpr >= '2.8.1'
+numba >= '0.55.1'
+h5py >= '3.6.0'
+pyFFTW >= '0.13.0'
+matplotlib >= '3.5.1'
+jupyter
